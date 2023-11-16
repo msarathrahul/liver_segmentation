@@ -87,20 +87,4 @@ To test the model, there is the jupyter notebook `testing.ipynb` file that conta
 
 ![Output image](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/graphs.PNG)
 
-----------------------------------------------------------------------------------------------------------------------------------
-Before using the code, I recommend that you watch my course, in which I explain everything in this repo, or at the very least read my blog entries, in which I explain how to use the various scripts so that you don't get confused.
-
-You can read about the tutorial in my blog post series starting by [this one.](https://pycad.co/liver-segmentation-part-1/)
-
-## Conversion tools
-
-For the different preparations that I talked about in the course/blogs I have create a simple GUI that help you to do the conversion in a few clicks, please see more information at [this link](https://pycad.co/pycad-convert/).
-
-![154864750-c55a3129-67c7-438a-8549-e2c45c433048](https://user-images.githubusercontent.com/37108394/156251291-a0911b63-41b6-4c8a-820b-a9bfec5e452b.png)
-
-## 🆕 NEW (coming soon) 
-
-Full course about medical imaging segmentation is coming soon, join the waitlist here:
-
-https://pycad.co/monai-and-pytoch-for-medical-imaging/
 
